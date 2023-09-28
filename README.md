@@ -1,2 +1,1 @@
-# Darkbug
-WhatsApp Script Bot Bug
+# Darkbug GAGAL SCRIPT
